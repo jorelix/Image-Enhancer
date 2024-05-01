@@ -1,2 +1,2 @@
 # Image-Enhancer
-First Colab with Mr Bash
+creativebash and jorelix
